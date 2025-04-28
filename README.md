@@ -1,23 +1,31 @@
+
 # 👋 Hi, I'm Ibrahim!
 
 ## 🚀 About Me
-I'm a  **Full Stack Web Developer** based in Ethiopia. I specialize in crafting modern, responsive, and high-performance web applications using the latest technologies. With a strong foundation in both frontend and backend development, I enjoy transforming ideas into real-world digital solutions.
+I'm a passionate Full Stack Web Developer and Instructor based in Ethiopia, dedicated to crafting modern, scalable, and high-performance web applications and to empowering the next generation of developers.
 
-- 💡 I thrive on solving complex problems and building scalable systems.
-- 🌱 Currently expanding my expertise in **TypeScript** and advanced **DevOps** practices.
-- 🤝 Open to freelance opportunities, collaborations, and innovative projects.
+With strong expertise in both frontend and backend development, I love turning complex ideas into clean, real-world digital solutions. Beyond building projects, I am deeply committed to making tech education accessible, practical, and inspiring.
 
 
-## 🛠️ Tech Stack
-**Frontend:** Tailwind CSS, JavaScript, TypeScript, jQuery, React.js, Next.js  
+
+- 💡 I enjoy tackling challenging problems and designing efficient, scalable systems.
+- 🌱 Currently deepening my skills in **TypeScript** and advanced **DevOps** workflows.
+- 🤝 Available for freelance projects, technical collaborations, and innovative opportunities.
+
+## 🛠️ My Tech Stack
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, jQuery  
 **Backend:** Node.js, Express.js, MySQL  
-**Tools & Platforms:** Git, GitHub, Docker, Linux, REST APIs
+**Tools & Platforms:** Git, GitHub, Docker, Linux, RESTful APIs
 
-## 🚀 Development Activity
-Most of my development work is housed in **private repositories**, where I focus on delivering full-stack solutions for clients and collaborative projects. I am consistently engaged in building scalable, efficient, and modern applications.
+## 🛠️ What I'm Working On
+Most of my work is housed in **private repositories**, where I develop full-stack applications tailored to client needs. I consistently focus on delivering optimized, scalable, and maintainable solutions that drive real value.
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://et.linkedin.com/in/ibrahim-wondimu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://ibrodev.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ei--bro-black)](https://github.com/ei-bro)
+## 🌐 Let's Connect
+Feel free to connect or reach out. I'd love to collaborate or chat about exciting opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://et.linkedin.com/in/ibrahim-wondimu)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://ibrodev.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-ei--bro-black)](https://github.com/ei-bro)  
 [![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:top.five.eibra@gmail.com)
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Support%20My%20Work-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/topfiveeiba)
